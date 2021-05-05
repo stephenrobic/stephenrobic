@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Stephen Robicheaux
+- 👀 I’m interested in constantly learning new information.
+- 🌱 I’m currently learning Python web development (primarily Django).
+- 💞️ I’m looking to collaborate on anything you'd like to shoot my way. I'm super openminded and want to help and learn!
+- 📫 You can reach me at www.stephenrobicheaux.com
